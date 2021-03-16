@@ -75,7 +75,7 @@ MonoBehaviour:
   m_MinSize: {x: 981, y: 492}
   m_MaxSize: {x: 18004, y: 14042}
   vertical: 0
-  controlID: 4963
+  controlID: 100
 --- !u!114 &4
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -247,7 +247,7 @@ MonoBehaviour:
   m_MinSize: {x: 403, y: 492}
   m_MaxSize: {x: 10001, y: 14042}
   vertical: 1
-  controlID: 4964
+  controlID: 101
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -272,7 +272,7 @@ MonoBehaviour:
   m_MinSize: {x: 403, y: 221}
   m_MaxSize: {x: 8003, y: 4021}
   vertical: 0
-  controlID: 4965
+  controlID: 102
 --- !u!114 &12
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -422,34 +422,34 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/LEGO/Prefabs/LEGO Behaviour Bricks
+    - Assets/LEGO/Prefabs/LEGO Models/Brick Collections
   m_ViewMode: 1
   m_StartGridSize: 71
   m_LastFolders:
-  - Assets/LEGO/Prefabs/LEGO Behaviour Bricks
+  - Assets/LEGO/Prefabs/LEGO Models/Brick Collections
   m_LastFoldersGridSize: 71
   m_LastProjectPath: C:\Users\user\Downloads\Lego_Practice\Lego
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 217}
-    m_SelectedIDs: 6a230500
-    m_LastClickedID: 336746
-    m_ExpandedIDs: 00000000382305003a2305003c2305005a2305005e2305006023050000ca9a3b
+    scrollPos: {x: 0, y: 249}
+    m_SelectedIDs: b6cb0100
+    m_LastClickedID: 117686
+    m_ExpandedIDs: 0000000028cb01002acb01002ccb01002ecb010030cb010032cb010000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
-      m_Name: Models
-      m_OriginalName: Models
+      m_Name: 
+      m_OriginalName: 
       m_EditFieldRect:
         serializedVersion: 2
         x: 0
         y: 0
         width: 0
         height: 0
-      m_UserData: 336740
+      m_UserData: 0
       m_IsWaitingForDelay: 0
       m_IsRenaming: 0
-      m_OriginalEventType: 0
+      m_OriginalEventType: 11
       m_IsRenamingFilename: 1
       m_ClientGUIView: {fileID: 6}
     m_SearchString: 
@@ -463,7 +463,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000382305003a2305003c2305005a23050000ca9a3b
+    m_ExpandedIDs: 0000000028cb01002acb01002ccb01002ecb010030cb010032cb0100
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -515,7 +515,7 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
     m_NewAssetIndexInList: -1
-    m_ScrollPosition: {x: 0, y: 37}
+    m_ScrollPosition: {x: 0, y: 0}
     m_GridSize: 71
   m_SkipHiddenPackages: 0
   m_DirectoriesAreaWidth: 199
@@ -586,9 +586,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 1c01f3ff
-      m_LastClickedID: -851684
-      m_ExpandedIDs: 1820f4ffb88cf4ff9066f6ffcc1ef8ff1c7bf8ff4a66faff
+      m_SelectedIDs: de5ff9ff
+      m_LastClickedID: -434210
+      m_ExpandedIDs: 0c60f9ff348bf9ffb4e0f9ffd2d4fcffe02afdff6080fdffd28cfdff8093fdff381ffeff681ffeff68fbffff90f90100
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -648,9 +648,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 157.55463, y: -41.68573, z: -49.21045}
+    m_Target: {x: -3.4866889, y: 1.3454052, z: 4.8026032}
     speed: 2
-    m_Value: {x: 157.55463, y: -41.68573, z: -49.21045}
+    m_Value: {x: -3.4866889, y: 1.3454052, z: 4.8026032}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -696,13 +696,13 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: 0.15670587, y: -0.80011064, z: 0.23741126, w: 0.5281218}
+    m_Target: {x: 0.4295936, y: 0.14619738, z: -0.07070919, w: 0.8883121}
     speed: 2
-    m_Value: {x: 0.15670505, y: -0.80010647, z: 0.23741001, w: 0.5281191}
+    m_Value: {x: 0.4325675, y: 0.14198993, z: -0.069200836, w: 0.88765734}
   m_Size:
-    m_Target: 52.371693
+    m_Target: 5.478241
     speed: 2
-    m_Value: 50.11645
+    m_Value: 5.178241
   m_Ortho:
     m_Target: 0
     speed: 2
